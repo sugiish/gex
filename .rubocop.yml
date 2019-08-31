@@ -1,0 +1,9 @@
+Metrics/BlockLength:
+  Exclude:
+    - gex.gemspec
+
+Metrics/LineLength:
+  Max: 100
+
+Style/MutableConstant:
+  Enabled: false
