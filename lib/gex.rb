@@ -1,4 +1,4 @@
-require "gex/version"
+require 'gex/version'
 
 module Gex
   class Error < StandardError; end
