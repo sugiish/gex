@@ -3,6 +3,7 @@
 Gex is a Ruby gem runner.
 
 [![Build Status](https://travis-ci.org/sugiish/gex.svg?branch=master)](https://travis-ci.org/sugiish/gex)
+[![Maintainability](https://api.codeclimate.com/v1/badges/8e0bedc5b8dbcb1b7c08/maintainability)](https://codeclimate.com/github/sugiish/gex/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/sugiish/gex/badge.svg?branch=master)](https://coveralls.io/github/sugiish/gex?branch=master)
 
 ## Installation
